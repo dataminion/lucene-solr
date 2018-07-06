@@ -1,0 +1,14 @@
+{
+  "/solr/admin/collections": {
+    "target": "http://localhost:32768",
+    "secure": false
+  },
+  "/solr/admin/cores": {
+    "target": "http://localhost:32768",
+    "secure": false
+  },
+  "/solr/admin/info": {
+    "target": "http://localhost:32768",
+    "secure": false
+  }
+}

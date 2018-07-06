@@ -7,4 +7,3 @@ export class ListCollections {
     responseHeader: ResponseHeader;
     collections: string[];
 }
-﻿
